@@ -1,6 +1,6 @@
 {
   "pistudioContent": 1,
-  "published": "2026-09-29T15:05:30.224Z",
+  "published": "2026-09-29T15:20:50.929Z",
   "packs": [
     {
       "kind": "machines",
@@ -14,20 +14,20 @@
     {
       "kind": "rotaries",
       "title": "Rotaries",
-      "version": "2026-09-29 11:05",
+      "version": "2026-09-29 11:20",
       "minAppVersion": "0.9.22",
       "url": "rotaries.pistudio-pack",
-      "bytes": 3445,
-      "sha256": "37b182538def370bd67682aa0c9a76f45d9d5900b52d3ed7422c60c959910d39"
+      "bytes": 3622,
+      "sha256": "bca9684f9328af5352cb7a973812d5695ddba0dced42d62a491d40af5e560e7f"
     },
     {
       "kind": "help",
       "title": "Help",
-      "version": "2026-09-29 11:05",
+      "version": "2026-09-29 11:20",
       "minAppVersion": "0.9.22",
       "url": "help.pistudio-pack",
-      "bytes": 172612,
-      "sha256": "913f0cf65d3f0174d7fd719a88fbdf200d549c1edc30a8c7b10e7bd0395f9e5d"
+      "bytes": 172824,
+      "sha256": "009f07c0cda836839bd45bb206f26aa5521fc6be0bf38e1450ca6f6a62b9fad4"
     }
   ]
 }
