@@ -1,0 +1,33 @@
+{
+  "pistudioContent": 1,
+  "published": "2026-09-29T15:05:30.224Z",
+  "packs": [
+    {
+      "kind": "machines",
+      "title": "Laser machines",
+      "version": "2026-09-29 11:05",
+      "minAppVersion": "0.9.22",
+      "url": "machines.pistudio-pack",
+      "bytes": 3285,
+      "sha256": "4b53b82041208aebcf2fc4d559c113b4ff46f1762bea6bc7553a52c7b167ac76"
+    },
+    {
+      "kind": "rotaries",
+      "title": "Rotaries",
+      "version": "2026-09-29 11:05",
+      "minAppVersion": "0.9.22",
+      "url": "rotaries.pistudio-pack",
+      "bytes": 3445,
+      "sha256": "37b182538def370bd67682aa0c9a76f45d9d5900b52d3ed7422c60c959910d39"
+    },
+    {
+      "kind": "help",
+      "title": "Help",
+      "version": "2026-09-29 11:05",
+      "minAppVersion": "0.9.22",
+      "url": "help.pistudio-pack",
+      "bytes": 172612,
+      "sha256": "913f0cf65d3f0174d7fd719a88fbdf200d549c1edc30a8c7b10e7bd0395f9e5d"
+    }
+  ]
+}
